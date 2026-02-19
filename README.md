@@ -45,9 +45,7 @@ The dashboard allows exploration of:
 
 ## 🛠️ Tech Stack
 
-This project can be built using tools such as:
-
-- Microsoft Excel / Power BI / Tableau *(update based on your implementation)*
+- Microsoft Excel / Power BI / Tableau *(Update if needed)*
 - Data Visualization Techniques
 - Pivot Tables / Charts / Slicers
 
@@ -69,30 +67,26 @@ Typical dataset fields used:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](Screenshot 2026-02-19 135629.png)
-
-*Replace `dashboard_screenshot.png` with your actual image file name.*
+![Bikes Buyer Analysis Dashboard](Screenshot 2026-02-19 135629.png)
 
 ---
 
 ## 🚀 How to Use
 
 1. Clone or download the repository  
-2. Open the dashboard file (Excel / PBIX / etc.)  
-3. Use filters and slicers to explore data  
+2. Open the dashboard file  
+3. Use filters and slicers to explore insights  
 4. Analyze buyer patterns  
 
 ---
 
 ## 📌 Use Cases
 
-This dashboard can be useful for:
-
-- Marketing Strategy
-- Customer Segmentation
-- Sales Analysis
-- Business Intelligence Practice
-- Data Analytics Projects
+- Marketing Strategy  
+- Customer Segmentation  
+- Sales Analysis  
+- Business Intelligence Practice  
+- Data Analytics Projects  
 
 ---
 
