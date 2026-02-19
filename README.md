@@ -69,7 +69,7 @@ Typical dataset fields used:
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](Dashboard.png)
+![Dashboard Screenshot](Screenshot 2026-02-19 135629.png)
 
 *Replace `dashboard_screenshot.png` with your actual image file name.*
 
